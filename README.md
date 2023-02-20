@@ -1,6 +1,6 @@
 <!--  https://DariDiniz.github.io/portfolio/  -->
 
-[![MasterHead](https://github.com/DariDiniz/DariDiniz/blob/main/Capa%20-%20Aurora.png)](https://github.com/DariDiniz)
+[![MasterHead](https://github.com/DariDiniz/DariDiniz/blob/main/src/Capa%20-%20Aurora.png)](https://github.com/DariDiniz)
 <!--
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
