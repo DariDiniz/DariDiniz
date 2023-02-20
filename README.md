@@ -38,14 +38,14 @@
 -->
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph <img src="https://media.giphy.com/media/l378aQHim5B3sJqVi/giphy.gif" width="80">
 </h2>
 <p align="center">
   <img src="https://github.com/DariDiniz/DariDiniz/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="120">
 </h2>
  
 <br>
